@@ -2336,21 +2336,11 @@ input, select, textarea {
 			}
 
 			.speaker img{
-				margin-left: 10px;
-				padding: 0;
-				float:left;
-				margin-right: 15px;
-			}
-
-			.speaker img{
-				width: 400px;
-				height: 275px;
-
+				width: 100%;
 			}
 
 			.boxPic img{
-				width: 285px;
-				height: 285px;
+				width: 23%;
 			}
 
 			.imagesss img{
@@ -2369,6 +2359,10 @@ input, select, textarea {
 
 				.image.featured {
 					margin: 0 0 1.5em 0;
+				}
+
+				.new.image{
+					width: 100%;
 				}
 
 
@@ -2398,7 +2392,11 @@ input, select, textarea {
 
 			.box.imagessBox {
 				width: auto;
+				
 			}
+		.new.image{
+			width: 100%;
+		}
 
 
 /* List */
