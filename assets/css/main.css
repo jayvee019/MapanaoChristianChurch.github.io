@@ -2331,7 +2331,7 @@ input, select, textarea {
 
 			.new.image img{
 				width: 365px;
-				height: 250px;
+				height: 240px;
 				
 			}
 
@@ -2398,7 +2398,6 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px){
 			.new.image{
-				width: 100%;
 				display: inline;
 				margin: 0 0 1.5em 0;
 			}
