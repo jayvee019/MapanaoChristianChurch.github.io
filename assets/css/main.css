@@ -2388,6 +2388,10 @@ input, select, textarea {
 				width: 15%;
 				
 			}
+		.new.image img{
+				width: 100%;	
+			}		
+
 		.new.image{
 			width: 33.1%;	
 		}
