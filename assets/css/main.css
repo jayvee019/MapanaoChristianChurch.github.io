@@ -2361,12 +2361,6 @@ input, select, textarea {
 					margin: 0 0 1.5em 0;
 				}
 
-				.new.image{
-					width: 100%;
-				}
-
-
-
 			}
 
 		.image.main {
@@ -2395,9 +2389,26 @@ input, select, textarea {
 				
 			}
 		.new.image{
-			width: 33.1%;
+			width: 33.1%;	
 		}
 
+		@media screen and (max-width: 736px){
+			.new.image{
+				width: 100%;
+				display: inline;
+				margin: 0 0 1.5em 0;
+			}
+			.boxPic img{
+				width: 23.5%;
+				display: inline;
+			}
+			.center {
+				display: block;
+				margin-left: auto;
+				margin-right: auto;
+				width: 50%;
+			  }
+		}
 
 /* List */
 
