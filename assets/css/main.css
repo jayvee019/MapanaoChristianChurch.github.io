@@ -86,7 +86,7 @@ input, select, textarea {
 }
 
 .loader.hidden {
-	animation: fadeOut 5s;
+	animation: fadeOut 4s;
 	animation-fill-mode: forwards;
 }
 
